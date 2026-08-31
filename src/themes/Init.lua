@@ -3,12 +3,12 @@ return function(WindUI, Creator)
 		Dark = {
 			Name = "Dark",
 
-			Accent = Color3.fromHex("#18181b"),
-			Dialog = Color3.fromHex("#1a1a1a"),
+			Accent = Color3.fromHex("#070707"),
+			Dialog = Color3.fromHex("#070707"),
 			Outline = Color3.fromHex("#FFFFFF"),
 			Text = Color3.fromHex("#FFFFFF"),
 			Placeholder = Color3.fromHex("#a1a1a1"),
-			Background = Color3.fromHex("#101010"),
+			Background = Color3.fromHex("#000000"),
 			Button = Color3.fromHex("#52525b"),
 			Icon = Color3.fromHex("#a1a1aa"),
 			Toggle = Color3.fromHex("#33C759"),
