@@ -1,0 +1,6 @@
+* text=auto
+*.lua text eol=lf diff=lua linguist-language=Lua
+*.md text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.sh text eol=lf
