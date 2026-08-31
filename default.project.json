@@ -1,0 +1,28 @@
+{
+    "name": "xFluxUI",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "xFluxUI": {
+                "$path": "src/"
+            },
+            "build": {
+                "$path": "build/"
+            }
+        },
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+            "$path": "src/server/"
+        },
+        "StarterPlayer": {
+            "$className": "StarterPlayer",
+            "StarterPlayerScripts": {
+                "$className": "StarterPlayerScripts",
+                "main": {
+                    "$path": "main.client.lua"
+                }
+            }
+        }
+    }
+}
