@@ -3,8 +3,7 @@
         "require_mode": "path"
     },
     "generator": {
-		"name": "dense",
-		"column_span": 9999999999
+		"name": "readable"
 	},
 	"rules": [
 		"remove_comments",
